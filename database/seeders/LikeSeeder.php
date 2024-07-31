@@ -23,7 +23,6 @@ class LikeSeeder extends Seeder
             ]);
         }
 
-        Like::factory(50)->post()->create();
-        Like::factory(50)->comment()->create();
+        Like::factory(50)->create();
     }
 }
