@@ -7556,16 +7556,16 @@
         },
         {
             "name": "laravel-shift/blueprint",
-            "version": "v2.10.0",
+            "version": "v2.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-shift/blueprint.git",
-                "reference": "05a9d91a3b2d849fdbc25317fa5242bb4bb346ce"
+                "reference": "ae0b14a297fe17e48d7553fe30b241aa1061add4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-shift/blueprint/zipball/05a9d91a3b2d849fdbc25317fa5242bb4bb346ce",
-                "reference": "05a9d91a3b2d849fdbc25317fa5242bb4bb346ce",
+                "url": "https://api.github.com/repos/laravel-shift/blueprint/zipball/ae0b14a297fe17e48d7553fe30b241aa1061add4",
+                "reference": "ae0b14a297fe17e48d7553fe30b241aa1061add4",
                 "shasum": ""
             },
             "require": {
@@ -7577,7 +7577,7 @@
                 "symfony/yaml": ">=6.2"
             },
             "require-dev": {
-                "laravel/pint": "^1.2",
+                "laravel/pint": "~1.18.0",
                 "mockery/mockery": "^1.4.4",
                 "orchestra/testbench": "^8.0|^9.0",
                 "phpunit/phpunit": "^10.0"
@@ -7610,9 +7610,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laravel-shift/blueprint/issues",
-                "source": "https://github.com/laravel-shift/blueprint/tree/v2.10.0"
+                "source": "https://github.com/laravel-shift/blueprint/tree/v2.11.0"
             },
-            "time": "2024-03-13T19:42:08+00:00"
+            "time": "2025-01-15T16:54:13+00:00"
         },
         {
             "name": "laravel-shift/faker-registry",
@@ -10924,16 +10924,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v7.2.0",
+            "version": "v7.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "099581e99f557e9f16b43c5916c26380b54abb22"
+                "reference": "ac238f173df0c9c1120f862d0f599e17535a87ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/099581e99f557e9f16b43c5916c26380b54abb22",
-                "reference": "099581e99f557e9f16b43c5916c26380b54abb22",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/ac238f173df0c9c1120f862d0f599e17535a87ec",
+                "reference": "ac238f173df0c9c1120f862d0f599e17535a87ec",
                 "shasum": ""
             },
             "require": {
@@ -10976,7 +10976,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v7.2.0"
+                "source": "https://github.com/symfony/yaml/tree/v7.2.3"
             },
             "funding": [
                 {
@@ -10992,7 +10992,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-10-23T06:56:12+00:00"
+            "time": "2025-01-07T12:55:42+00:00"
         },
         {
             "name": "theseer/tokenizer",
